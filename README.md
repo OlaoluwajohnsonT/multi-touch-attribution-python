@@ -1,4 +1,4 @@
-# Multi-Touch Attribution in Python
+# Driving Smarter Budget Decisions with Shapley & Markov Attribution
 
 ## Project Brief
 This project implements **multi-touch attribution (MTA)** models in Python to evaluate marketing channel contributions to conversions.  
